@@ -1,6 +1,6 @@
-Hispanic/Latino |,Hispanic/Latino | Declines to State,Hispanic/Latino | Hispanic,Hispanic/Latino | Not Hispanic,Hispanic/Latino | Unknown,Non-Hispanic/Non-Latino |,Non-Hispanic/Non-Latino | Declines to State,Non-Hispanic/Non-Latino | Hispanic,Non-Hispanic/Non-Latino | Not Hispanic,Non-Hispanic/Non-Latino | Unknown,Patient Refused |,Patient Refused | Declines to State,Patient Refused | Hispanic,Patient Refused | Not Hispanic,Patient Refused | Unknown,Unknown |,Unknown | Declines to State,Unknown | Hispanic,Unknown | Not Hispanic,Unknown | Unknown,|,| Declines to State,| Hispanic,| Not Hispanic,| Unknown
-1983,12,1019,236,170,11069,122,169,3091,947,631,12,14,77,29,908,25,27,224,131,983,395,530,2296,1943
-83,0,36,2,1,167,1,2,22,4,2,0,0,0,1,14,0,0,4,1,61,0,3,3,1
-543,0,209,48,16,2840,12,34,636,119,123,1,1,9,4,289,0,1,27,19,329,4,24,47,21
-190,0,63,2,4,386,2,3,53,11,8,0,0,0,1,75,0,0,6,2,684,0,5,6,1
-2447,7,875,222,62,13578,52,162,3119,515,441,3,10,64,11,1568,10,37,207,70,8432,21,139,365,115
+,Hispanic/Latino |,Hispanic/Latino | Declines to State,Hispanic/Latino | Hispanic,Hispanic/Latino | Not Hispanic,Hispanic/Latino | Unknown,Non-Hispanic/Non-Latino |,Non-Hispanic/Non-Latino | Declines to State,Non-Hispanic/Non-Latino | Hispanic,Non-Hispanic/Non-Latino | Not Hispanic,Non-Hispanic/Non-Latino | Unknown,Patient Refused |,Patient Refused | Declines to State,Patient Refused | Hispanic,Patient Refused | Not Hispanic,Patient Refused | Unknown,Unknown |,Unknown | Declines to State,Unknown | Hispanic,Unknown | Not Hispanic,Unknown | Unknown,|,| Declines to State,| Hispanic,| Not Hispanic,| Unknown
+ARI,1983,12,1019,236,170,11069,122,169,3091,947,631,12,14,77,29,908,25,27,224,131,983,395,530,2296,1943
+ARI_detected_60,83,0,36,2,1,167,1,2,22,4,2,0,0,0,1,14,0,0,4,1,61,0,3,3,1
+ARI_tested_60,543,0,209,48,16,2840,12,34,636,119,123,1,1,9,4,289,0,1,27,19,329,4,24,47,21
+detected,190,0,63,2,4,386,2,3,53,11,8,0,0,0,1,75,0,0,6,2,684,0,5,6,1
+tested,2447,7,875,222,62,13578,52,162,3119,515,441,3,10,64,11,1568,10,37,207,70,8432,21,139,365,115
