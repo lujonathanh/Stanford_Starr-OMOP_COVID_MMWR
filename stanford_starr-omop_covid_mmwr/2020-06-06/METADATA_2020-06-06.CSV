@@ -1,0 +1,26 @@
+Name,Description
+Corresponding email addresses,"marcelkc@stanford.edu, jhlu@stanford.edu"
+Code repository,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR
+Run date,2020-06-06
+ARI_start_date,2020-01-01
+sarscov2test_concept_id,706170
+ARIVisitIn2020-01-01_2020-06-06,Patient had a visit with ARI diagnosis in 2020-01-01_2020-06-06
+SARSCoV2TestedIn2020-01-01_2020-06-06,"Patient had a SARS-CoV2 Test in ['2020-01-01', '2020-06-06']"
+SARSCoV2DetectedIn2020-01-01_2020-06-06,Patient had SARS-CoV2 Detected in 2020-01-01_2020-06-06
+"firstorLastARItoFirstSARSCoV2TestedInDayRange[-1, 14]","was either the first or last ARI within the range [-1, 14] days before the first SARSCoV2 test?"
+firstorLastARItoFirstSARSCoV2TestedDayRange,"[-1, 14]"
+"firstorLastARItoFirstSARSCoV2DetectedInDayRange[-1, 14]","was either the first or last ARI within the range [-1, 14] days before the first SARSCoV2 detection?"
+firstorLastARItoFirstSARSCoV2DetectedDayRange,"[-1, 14]"
+total_ARIVisitIn2020-01-01_2020-06-06,39001
+total_SARSCoV2TestedIn2020-01-01_2020-06-06,46407
+total_SARSCoV2DetectedIn2020-01-01_2020-06-06,1732
+"total_firstorLastARItoFirstSARSCoV2TestedInDayRange[-1, 14]",6964
+"total_firstorLastARItoFirstSARSCoV2DetectedInDayRange[-1, 14]",600
+val_range_inclusive,"[1, 9]"
+val_mask,5
+age masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+ethnicityConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+raceConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+genderConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+Freeze of exact code used to run,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR/stanford_starr-omop_covid_mmwr/2020-06-06/new_tbl_adj_2020-06-06.ipynb
+Metadata location,stanford_starr-omop_covid_mmwr/2020-06-06/METADATA_2020-06-06.CSV
