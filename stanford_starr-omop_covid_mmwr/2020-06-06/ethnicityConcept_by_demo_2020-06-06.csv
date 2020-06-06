@@ -1,0 +1,16 @@
+ethnicityConcept,variable,value
+Hispanic or Latino,ARIVisitIn2020-01-01_2020-06-06,5894
+No matching concept,ARIVisitIn2020-01-01_2020-06-06,7091
+Not Hispanic or Latino,ARIVisitIn2020-01-01_2020-06-06,26016
+Hispanic or Latino,SARSCoV2TestedIn2020-01-01_2020-06-06,5636
+No matching concept,SARSCoV2TestedIn2020-01-01_2020-06-06,13894
+Not Hispanic or Latino,SARSCoV2TestedIn2020-01-01_2020-06-06,26877
+Hispanic or Latino,SARSCoV2DetectedIn2020-01-01_2020-06-06,355
+No matching concept,SARSCoV2DetectedIn2020-01-01_2020-06-06,860
+Not Hispanic or Latino,SARSCoV2DetectedIn2020-01-01_2020-06-06,517
+Hispanic or Latino,"firstorLastARItoFirstSARSCoV2TestedInDayRange[-1, 14]",1049
+No matching concept,"firstorLastARItoFirstSARSCoV2TestedInDayRange[-1, 14]",1380
+Not Hispanic or Latino,"firstorLastARItoFirstSARSCoV2TestedInDayRange[-1, 14]",4535
+Hispanic or Latino,"firstorLastARItoFirstSARSCoV2DetectedInDayRange[-1, 14]",198
+No matching concept,"firstorLastARItoFirstSARSCoV2DetectedInDayRange[-1, 14]",173
+Not Hispanic or Latino,"firstorLastARItoFirstSARSCoV2DetectedInDayRange[-1, 14]",229
