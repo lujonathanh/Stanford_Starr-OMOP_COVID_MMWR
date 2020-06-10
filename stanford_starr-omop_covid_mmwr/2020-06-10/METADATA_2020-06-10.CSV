@@ -1,6 +1,7 @@
 Name,Description
 Corresponding email addresses,"marcelkc@stanford.edu, jhlu@stanford.edu"
 Code repository,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR
+Starr OMOP description,"For more information about the Starr OMOP database, see https://med.stanford.edu/starr-omop/access.html under OMOP and STARR-OMOP documentation"
 Run date,2020-06-10
 ARI_start_date,2020-01-01
 sarscov2test_concept_id,706170
