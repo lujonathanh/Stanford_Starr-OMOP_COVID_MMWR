@@ -1,31 +1,31 @@
-raceConcept,variable,value
-American Indian or Alaska Native,ARIVisitInTimeRange,99
-Asian,ARIVisitInTimeRange,7008
-Black or African American,ARIVisitInTimeRange,1413
-Native Hawaiian or Other Pacific Islander,ARIVisitInTimeRange,454
-No matching concept,ARIVisitInTimeRange,13308
-White,ARIVisitInTimeRange,17348
-American Indian or Alaska Native,SARSCoV2TestedInTimeRange,134
-Asian,SARSCoV2TestedInTimeRange,7109
-Black or African American,SARSCoV2TestedInTimeRange,1530
-Native Hawaiian or Other Pacific Islander,SARSCoV2TestedInTimeRange,524
-No matching concept,SARSCoV2TestedInTimeRange,21686
-White,SARSCoV2TestedInTimeRange,20476
-American Indian or Alaska Native,SARSCoV2DetectedInTimeRange,5
-Asian,SARSCoV2DetectedInTimeRange,129
-Black or African American,SARSCoV2DetectedInTimeRange,32
-Native Hawaiian or Other Pacific Islander,SARSCoV2DetectedInTimeRange,12
-No matching concept,SARSCoV2DetectedInTimeRange,1222
-White,SARSCoV2DetectedInTimeRange,397
-American Indian or Alaska Native,firstorLastARItoFirstSARSCoV2TestedInDayRange,17
-Asian,firstorLastARItoFirstSARSCoV2TestedInDayRange,1041
-Black or African American,firstorLastARItoFirstSARSCoV2TestedInDayRange,223
-Native Hawaiian or Other Pacific Islander,firstorLastARItoFirstSARSCoV2TestedInDayRange,71
-No matching concept,firstorLastARItoFirstSARSCoV2TestedInDayRange,2742
-White,firstorLastARItoFirstSARSCoV2TestedInDayRange,3326
-American Indian or Alaska Native,firstorLastARItoFirstSARSCoV2DetectedInDayRange,0
-Asian,firstorLastARItoFirstSARSCoV2DetectedInDayRange,66
-Black or African American,firstorLastARItoFirstSARSCoV2DetectedInDayRange,17
-Native Hawaiian or Other Pacific Islander,firstorLastARItoFirstSARSCoV2DetectedInDayRange,5
-No matching concept,firstorLastARItoFirstSARSCoV2DetectedInDayRange,371
-White,firstorLastARItoFirstSARSCoV2DetectedInDayRange,181
+run_date,raceConcept,variable,value,Range
+2020-06-10,American Indian or Alaska Native,ARIVisitInTimeRange,99,"['2020-01-01', '2020-06-10']"
+2020-06-10,Asian,ARIVisitInTimeRange,7008,"['2020-01-01', '2020-06-10']"
+2020-06-10,Black or African American,ARIVisitInTimeRange,1413,"['2020-01-01', '2020-06-10']"
+2020-06-10,Native Hawaiian or Other Pacific Islander,ARIVisitInTimeRange,454,"['2020-01-01', '2020-06-10']"
+2020-06-10,No matching concept,ARIVisitInTimeRange,13308,"['2020-01-01', '2020-06-10']"
+2020-06-10,White,ARIVisitInTimeRange,17348,"['2020-01-01', '2020-06-10']"
+2020-06-10,American Indian or Alaska Native,SARSCoV2TestedInTimeRange,134,"['2020-01-01', '2020-06-10']"
+2020-06-10,Asian,SARSCoV2TestedInTimeRange,7109,"['2020-01-01', '2020-06-10']"
+2020-06-10,Black or African American,SARSCoV2TestedInTimeRange,1530,"['2020-01-01', '2020-06-10']"
+2020-06-10,Native Hawaiian or Other Pacific Islander,SARSCoV2TestedInTimeRange,524,"['2020-01-01', '2020-06-10']"
+2020-06-10,No matching concept,SARSCoV2TestedInTimeRange,21686,"['2020-01-01', '2020-06-10']"
+2020-06-10,White,SARSCoV2TestedInTimeRange,20476,"['2020-01-01', '2020-06-10']"
+2020-06-10,American Indian or Alaska Native,SARSCoV2DetectedInTimeRange,5,"['2020-01-01', '2020-06-10']"
+2020-06-10,Asian,SARSCoV2DetectedInTimeRange,129,"['2020-01-01', '2020-06-10']"
+2020-06-10,Black or African American,SARSCoV2DetectedInTimeRange,32,"['2020-01-01', '2020-06-10']"
+2020-06-10,Native Hawaiian or Other Pacific Islander,SARSCoV2DetectedInTimeRange,12,"['2020-01-01', '2020-06-10']"
+2020-06-10,No matching concept,SARSCoV2DetectedInTimeRange,1222,"['2020-01-01', '2020-06-10']"
+2020-06-10,White,SARSCoV2DetectedInTimeRange,397,"['2020-01-01', '2020-06-10']"
+2020-06-10,American Indian or Alaska Native,firstorLastARItoFirstSARSCoV2TestedInDayRange,17,"[-1, 14]"
+2020-06-10,Asian,firstorLastARItoFirstSARSCoV2TestedInDayRange,1041,"[-1, 14]"
+2020-06-10,Black or African American,firstorLastARItoFirstSARSCoV2TestedInDayRange,223,"[-1, 14]"
+2020-06-10,Native Hawaiian or Other Pacific Islander,firstorLastARItoFirstSARSCoV2TestedInDayRange,71,"[-1, 14]"
+2020-06-10,No matching concept,firstorLastARItoFirstSARSCoV2TestedInDayRange,2742,"[-1, 14]"
+2020-06-10,White,firstorLastARItoFirstSARSCoV2TestedInDayRange,3326,"[-1, 14]"
+2020-06-10,American Indian or Alaska Native,firstorLastARItoFirstSARSCoV2DetectedInDayRange,0,"[-1, 14]"
+2020-06-10,Asian,firstorLastARItoFirstSARSCoV2DetectedInDayRange,66,"[-1, 14]"
+2020-06-10,Black or African American,firstorLastARItoFirstSARSCoV2DetectedInDayRange,17,"[-1, 14]"
+2020-06-10,Native Hawaiian or Other Pacific Islander,firstorLastARItoFirstSARSCoV2DetectedInDayRange,5,"[-1, 14]"
+2020-06-10,No matching concept,firstorLastARItoFirstSARSCoV2DetectedInDayRange,371,"[-1, 14]"
+2020-06-10,White,firstorLastARItoFirstSARSCoV2DetectedInDayRange,181,"[-1, 14]"
