@@ -1,0 +1,8 @@
+stanford_starr-omop_covid_mmwr/2020-06-10/age_by_demo_2020-06-10.csv
+stanford_starr-omop_covid_mmwr/2020-06-10/ethnicityConcept_by_demo_2020-06-10.csv
+stanford_starr-omop_covid_mmwr/2020-06-10/raceConcept_by_demo_2020-06-10.csv
+stanford_starr-omop_covid_mmwr/2020-06-10/genderConcept_by_demo_2020-06-10.csv
+new_tbl_adj.ipynb
+stanford_starr-omop_covid_mmwr/2020-06-10/new_tbl_adj_2020-06-10.ipynb
+stanford_starr-omop_covid_mmwr/2020-06-10/METADATA_2020-06-10.CSV
+stanford_starr-omop_covid_mmwr/2020-06-10/README.md
