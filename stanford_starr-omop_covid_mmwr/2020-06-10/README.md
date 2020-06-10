@@ -1,18 +1,29 @@
 
-This repository contains long tables of: {out_key_string} grouped by demographic factors, separately: {demo_cols}
+This repository contains long tables of:
 
-drawing from all patients in the Starr-OMOP database from {ARI_start_date} through {run_date}, inclusive.
+ARIVisitInTimeRange
+SARSCoV2TestedInTimeRange
+SARSCoV2DetectedInTimeRange
+firstorLastARItoFirstSARSCoV2TestedInDayRange
+firstorLastARItoFirstSARSCoV2DetectedInDayRange
 
-Metadata at {metadata_loc}
+grouped by demographic factors, separately:
 
-Original code used to generate at {code_freeze_loc}
+['age', 'ethnicityConcept', 'raceConcept', 'genderConcept']
+
+drawing from all patients in the Starr-OMOP database from 2020-01-01 through 2020-06-10, inclusive.
+
+Metadata at stanford_starr-omop_covid_mmwr/2020-06-10/METADATA_2020-06-10.CSV
+
+Original code used to generate at https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR/stanford_starr-omop_covid_mmwr/2020-06-10/new_tbl_adj_2020-06-10.ipynb
 
 # CAVEATS
 
-* SARS-CoV2 test are specifically Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using Nucleic acid amplification technique in Unspecified specimen We use the STARR-OMOP concept ID 706170 which is further described at https://athena.ohdsi.org/search-terms/terms/706170
+* SARS-CoV2 test are specifically Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using Nucleic acid amplification technique in Unspecified specimen . We use the STARR-OMOP concept ID 706170 which is further described at https://athena.ohdsi.org/search-terms/terms/706170
+
 * Starr-OMOP is de-identified by Hiding in Plain Sight.
 
-* all counts that were in [1,9] inclusive were masked to the "5" value to protect anonymity.
+* all counts that were in [1, 9] inclusive were masked to the 5 value to protect anonymity.
 
 * This contains all patients to date, not weekly. 
 
