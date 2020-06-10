@@ -1,0 +1,16 @@
+ethnicityConcept,variable,value
+Hispanic or Latino,ARIVisitInTimeRange,5997
+No matching concept,ARIVisitInTimeRange,7217
+Not Hispanic or Latino,ARIVisitInTimeRange,26416
+Hispanic or Latino,SARSCoV2TestedInTimeRange,6339
+No matching concept,SARSCoV2TestedInTimeRange,15022
+Not Hispanic or Latino,SARSCoV2TestedInTimeRange,30098
+Hispanic or Latino,SARSCoV2DetectedInTimeRange,386
+No matching concept,SARSCoV2DetectedInTimeRange,869
+Not Hispanic or Latino,SARSCoV2DetectedInTimeRange,539
+Hispanic or Latino,firstorLastARItoFirstSARSCoV2TestedInDayRange,1120
+No matching concept,firstorLastARItoFirstSARSCoV2TestedInDayRange,1494
+Not Hispanic or Latino,firstorLastARItoFirstSARSCoV2TestedInDayRange,4806
+Hispanic or Latino,firstorLastARItoFirstSARSCoV2DetectedInDayRange,220
+No matching concept,firstorLastARItoFirstSARSCoV2DetectedInDayRange,178
+Not Hispanic or Latino,firstorLastARItoFirstSARSCoV2DetectedInDayRange,242
