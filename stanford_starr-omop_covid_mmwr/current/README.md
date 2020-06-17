@@ -31,6 +31,14 @@ Original code used to generate at https://github.com/lujonathanh/Stanford_Starr-
 
 # CAVEATS
 
+* The data is always from a delayed snapshot. Please find RIT's message below.
+
+
+“Research IT is excited to announce the release of updated STARR-OMOP de-id datasets in BigQuery.These new OMOP datasets were generated using the following (more recent) data snapshots from Clarity:
+June 6, 2020, for LPCH and 
+June 6 , 2020, for SHC. ”
+
+
 * Starr-OMOP is de-identified by Hiding in Plain Sight. For more information about the Starr OMOP database, see https://med.stanford.edu/starr-omop/access.html under OMOP and STARR-OMOP documentation
 
 * For each patient, their dates and times are individually jittered by an unknown day range within [-31, 31] days. 

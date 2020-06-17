@@ -7,5 +7,6 @@ stanford_starr-omop_covid_mmwr/2020-06-17/new_tbl_adj_2020-06-17.ipynb
 stanford_starr-omop_covid_mmwr/2020-06-17/METADATA_2020-06-17.CSV
 stanford_starr-omop_covid_mmwr/2020-06-17/README.md
 stanford_starr-omop_covid_mmwr/current
+stanford_starr-omop_covid_mmwr/current
 export_list.txt
 git_export.sh

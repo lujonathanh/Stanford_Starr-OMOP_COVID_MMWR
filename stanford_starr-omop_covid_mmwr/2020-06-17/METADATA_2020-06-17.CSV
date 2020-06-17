@@ -1,4 +1,9 @@
 Name,Description
+Research IT Snapshot Message,"
+“Research IT is excited to announce the release of updated STARR-OMOP de-id datasets in BigQuery.These new OMOP datasets were generated using the following (more recent) data snapshots from Clarity:
+June 6, 2020, for LPCH and 
+June 6 , 2020, for SHC. ”
+"
 Corresponding email addresses,"marcelkc@stanford.edu, jhlu@stanford.edu"
 Code repository,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR
 Starr OMOP description,"For more information about the Starr OMOP database, see https://med.stanford.edu/starr-omop/access.html under OMOP and STARR-OMOP documentation"
