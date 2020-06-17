@@ -1,0 +1,32 @@
+Name,Description
+Corresponding email addresses,"marcelkc@stanford.edu, jhlu@stanford.edu"
+Code repository,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR
+Starr OMOP description,"For more information about the Starr OMOP database, see https://med.stanford.edu/starr-omop/access.html under OMOP and STARR-OMOP documentation"
+Run date,2020-06-17
+ARI_start_date,2020-01-01
+sarscov2test_concept_id,706170
+sarscov2test_concept_id_description,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using Nucleic acid amplification technique in Unspecified specimen
+sarscov2test_concept_id_description_URL,https://athena.ohdsi.org/search-terms/terms/706170
+ARIVisitInTimeRange,Patient had a visit with ARI diagnosis in 2020-01-01_2020-06-17
+ARIVisitTimeRange,"['2020-01-01', '2020-06-17']"
+SARSCoV2TestedInTimeRange,"Patient had a SARS-CoV2 Test in ['2020-01-01', '2020-06-17']"
+SARSCoV2TestedTimeRange,"['2020-01-01', '2020-06-17']"
+SARSCoV2DetectedInTimeRange,Patient had SARS-CoV2 Detected in 2020-01-01_2020-06-17
+SARSCoV2DetectedTimeRange,"['2020-01-01', '2020-06-17']"
+firstorLastARItoFirstSARSCoV2TestedInDayRange,"was either the first or last ARI within the range [-1, 14] days before the first SARSCoV2 test?"
+firstorLastARItoFirstSARSCoV2TestedDayRange,"[-1, 14]"
+firstorLastARItoFirstSARSCoV2DetectedInDayRange,"was either the first or last ARI within the range [-1, 14] days before the first SARSCoV2 detection?"
+firstorLastARItoFirstSARSCoV2DetectedDayRange,"[-1, 14]"
+total_ARIVisitInTimeRange,39630
+total_SARSCoV2TestedInTimeRange,51459
+total_SARSCoV2DetectedInTimeRange,1794
+total_firstorLastARItoFirstSARSCoV2TestedInDayRange,7420
+total_firstorLastARItoFirstSARSCoV2DetectedInDayRange,640
+val_range_inclusive,"[1, 9]"
+val_mask,5
+age masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+ethnicityConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+raceConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+genderConcept masking,"Values for column value within the inclusive range [1, 9] were masked to 5"
+Freeze of exact code used to run,https://github.com/lujonathanh/Stanford_Starr-OMOP_COVID_MMWR/stanford_starr-omop_covid_mmwr/2020-06-17/new_tbl_adj_2020-06-17.ipynb
+Metadata location,stanford_starr-omop_covid_mmwr/2020-06-17/METADATA_2020-06-17.CSV
